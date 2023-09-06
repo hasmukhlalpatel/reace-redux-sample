@@ -1,4 +1,4 @@
-# reace-redux-sample
+# react redux sample
 
 ```javascript
 import { createStore  } from "redux";
